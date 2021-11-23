@@ -1,9 +1,10 @@
 # 简介
 
 LMS(Library Management System),是给洛阳理工梦想机器人协会实验室使用的一套管理系统.
+
 ## 目录详情
 
-```
+``` python
 └─LMS
     ├─CMS                   耗材管理
     │  ├─migrations
@@ -67,6 +68,24 @@ app: KBMS(kitboard mange system)
 
 ### 参考文档
 
+#### GITHUB的基础操作
+
+[文字1](https://blog.csdn.net/loadsong/article/details/51591631)
+
+[文字2](https://blog.csdn.net/qq_43669111/article/details/104125627)
+
+[文字3](https://www.jianshu.com/p/5a1b669a2f48)
+
+[文字4](https://zhuanlan.zhihu.com/p/23478654)
+
+[文字5](https://gitee.com/help#article-header0)
+
+[视频1](https://www.bilibili.com/video/BV1pW411A7a5)
+
+#### Markdown的一些语法
+
+[文字](LMS/markdown_gram.md)
+
 #### 前端
 
 [React](https://react.docschina.org/tutorial/tutorial.html)
@@ -74,7 +93,11 @@ app: KBMS(kitboard mange system)
 #### 后端
 
 [廖雪峰的python](https://www.liaoxuefeng.com/wiki/1016959663602400)
+
 [菜鸟教程](https://www.runoob.com/python/python-tutorial.html)
 [python包管理的一个网站](https://pypi.org/)
+
 [django](https://pypi.org/project/Django/)
+
 [django参考文档&教程](https://docs.djangoproject.com/zh-hans/3.2/)
+
