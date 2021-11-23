@@ -62,9 +62,9 @@ app: KBMS(kitboard mange system)
 
 ### 生成数据库的方法
 
-1.编辑 models.py 文件，改变模型。
-2.运行 `python manage.py makemigrations` 为模型的改变生成迁移文件。
-3.运行 `python manage.py migrate` 来应用数据库迁移。
+1. 编辑 models.py 文件，改变模型。
+2. 运行 `python manage.py makemigrations` 为模型的改变生成迁移文件。
+3. 运行 `python manage.py migrate` 来应用数据库迁移。
 
 ### 参考文档
 
@@ -100,4 +100,3 @@ app: KBMS(kitboard mange system)
 [django](https://pypi.org/project/Django/)
 
 [django参考文档&教程](https://docs.djangoproject.com/zh-hans/3.2/)
-
