@@ -61,3 +61,17 @@ app: KBMS(kitboard mange system)
 1.编辑 models.py 文件，改变模型。
 2.运行 `python manage.py makemigrations` 为模型的改变生成迁移文件。
 3.运行 `python manage.py migrate` 来应用数据库迁移。
+
+### 参考文档
+
+#### 前端
+
+[React](https://react.docschina.org/tutorial/tutorial.html)
+
+#### 后端
+
+[廖雪峰的python](https://www.liaoxuefeng.com/wiki/1016959663602400)
+[菜鸟教程](https://www.runoob.com/python/python-tutorial.html)
+[python包管理的一个网站](https://pypi.org/)
+[django](https://pypi.org/project/Django/)
+[django参考文档&教程](https://docs.djangoproject.com/zh-hans/3.2/)
