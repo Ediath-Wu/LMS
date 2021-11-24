@@ -1,6 +1,6 @@
 # 简介
 
-LMS(Library Management System),是给洛阳理工梦想机器人协会实验室使用的一套管理系统.
+LMS(laboratory Management System),是给洛阳理工梦想机器人协会实验室使用的一套管理系统.
 
 ## 目录详情
 
