@@ -2,6 +2,15 @@
 
 LMS(laboratory Management System),是给洛阳理工梦想机器人协会实验室使用的一套管理系统.
 
+## 针对零基础的小白的教程
+
+### git
+
+#### 什么是git
+
+
+
+
 ## 目录详情
 
 ``` python
@@ -100,3 +109,4 @@ app: KBMS(kitboard mange system)
 [django](https://pypi.org/project/Django/)
 
 [django参考文档&教程](https://docs.djangoproject.com/zh-hans/3.2/)
+
